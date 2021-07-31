@@ -10,7 +10,7 @@ ________________________________________________________________________________
         Date: 19th Apr, 2021
     
     Assignment:
-        Title: Assignments for S/W Engg Lab - from Dr. B. C. Dhara
+        Title: Assignments for S/W Engg Lab
 
         Problem 1.
          => solution: Program will find optimal solution for a transportation
